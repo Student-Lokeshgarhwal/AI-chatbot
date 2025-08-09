@@ -49,6 +49,7 @@
     grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
     gap: 15px;
     padding: 20px;
+    margin-bottom: 10px;
 }
 
 .main-container .card{
@@ -86,7 +87,8 @@
     width: 100%;
     max-width: 900px;
     padding: 0px 20px;
-    margin: auto;
+    margin:10px auto 5px;
+
 }
 
 .search-box{
